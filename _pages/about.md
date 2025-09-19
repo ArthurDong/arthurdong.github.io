@@ -21,11 +21,11 @@ Collaborative Deep Learning, Edge Computing, Federated Learning.
 
 EDUCATION
 ------
-- Ph.D. in Computer Science | Swinburne University of Technology, Dec 2021 – Nov 2025
+- Ph.D. in Computer Science: Swinburne University of Technology, Dec 2021 – Nov 2025
 
-- Master’s degree of Computer Science | Xidian Unversity, Sep 2018 – Jun 2021
+- Master’s degree of Computer Science: Xidian Unversity, Sep 2018 – Jun 2021
 
-- Bachelor’s degree of Software Engineering | University of Electronic Science and technology of China (UESTC), Sep 2013 – Jun 2018
+- Bachelor’s degree of Software Engineering: University of Electronic Science and technology of China (UESTC), Sep 2013 – Jun 2018
 
 PUBLICATIONS
 ------
