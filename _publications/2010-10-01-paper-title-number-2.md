@@ -2,7 +2,6 @@
 title: "EdgeMove: Pipelining device-edge model training for mobile intelligence"
 collection: publications
 category: conferences
-excerpt: 'This paper is about the Device-Edge collaborative learning.'
 date: 2022-4-25
 venue: 'Proceedings of the ACM Web Conference 2023 (Core A*)'
 paperurl: 'https://dl.acm.org/doi/abs/10.1145/3543507.3583540'
