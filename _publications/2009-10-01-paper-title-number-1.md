@@ -2,7 +2,7 @@
 title: "Pyramid: Enabling hierarchical neural networks with edge computing"
 collection: publications
 category: manuscipts
-permalink: https://dl.acm.org/doi/abs/10.1145/3485447.3511990
+permalink: "https://dl.acm.org/doi/abs/10.1145/3485447.3511990"
 excerpt: 'This paper is about the Pyramid'
 date: 2022-4-25
 venue: 'Proceedings of the ACM Web Conference 2022'
