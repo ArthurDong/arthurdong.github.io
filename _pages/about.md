@@ -33,6 +33,16 @@ Qiang He, Kaibin Wang, Zeqian Dong, Liang Yuan, Feifei Chen, Hai Jin, Yun Yang. 
 Zeqian Dong, Qiang He. Kaibin Wang, Feifei Chen, Yun Yang. Conservator: Mitigating Data Drifts for Large and Small Model Collaboration with Mutual Continual Learning. (Under Review)
 Qiang He, Zeqian Dong, Kaibin Wang, Feifei Chen, Yun Yang. Clipper: Enabling Communication-Efficient Model Parallelism with Tensor Compression for Collaborative DNN Training (Under Review, Co-first author)
 
+TEACHING EXPERIENCE
+------
+2022 – 2025 Teaching Assistant, Department of Computing Technologies, Swinburne University of Technology, Australia
+-	COS60004: Creating Web Applications (Postgraduate)
+-	COS10001: Creating Web Applications (Undergraduate)
+-	COS10026: Computing Technology Inquiry Project (Undergraduate)
+- SWE30009: Software Testing and Reliability
+2025 – now Post-Doctoral, Department of Computing Technologies, Swinburne University of Technology, Australia
+
+
 For more info
 ------
 More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
