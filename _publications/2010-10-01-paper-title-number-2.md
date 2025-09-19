@@ -1,7 +1,7 @@
 ---
 title: "EdgeMove: Pipelining device-edge model training for mobile intelligence"
 collection: publications
-category: published
+category: manuscipt
 permalink: https://dl.acm.org/doi/abs/10.1145/3543507.3583540
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2023-4-30
