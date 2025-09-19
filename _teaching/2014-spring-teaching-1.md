@@ -8,14 +8,10 @@ date: 2022-02-27
 location: "Hawthorn, Australia"
 ---
 
-COS10011/COS60004
+Unit
 ======
-Creating Web Application
+COS10011/COS60004: Creating Web Application
 
-COS10026
-======
-Computing Technology Inquiry Project
+COS10026: Computing Technology Inquiry Project
 
-SWE30009
-======
-Software Testing and Reliability
+SWE30009: Software Testing and Reliability
