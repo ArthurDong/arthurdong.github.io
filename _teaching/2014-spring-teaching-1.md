@@ -1,20 +1,17 @@
 ---
-title: "Teaching experience 1"
+title: "Teaching Assistant"
 collection: teaching
-type: "Undergraduate course"
+type: "Tutor Teaching"
 permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+venue: "Swinburne University of Technology"
+date: 2022-02
+location: "Hawthorn, Australia"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
+COS10011/COS10026/COS60004
 ======
+Create Web Application
 
-Heading 2
+SWE30009
 ======
-
-Heading 3
-======
+Software and Reliability
