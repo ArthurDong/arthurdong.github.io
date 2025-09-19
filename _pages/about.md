@@ -7,11 +7,12 @@ redirect_from:
   - /about.html
 ---
 
+PROFESSIONAL SUMMARY
 Final-year Ph.D. candidate in Computing Technologies at Swinburne University of Technology, with research focused on Collaborative Deep Learning, Edge Intelligence, and Large Language Models. Published in top-tier venues such as EuroSys and TheWebConf.
 Experienced in tutoring at both undergraduate and postgraduate levels, with a strong track record in designing and delivering course content, assessments, and academic coordination.
 Proficient in Python and PyTorch, with hands-on experience in developing custom model architectures, building end-to-end training pipelines, and adapting open-source codebases for research and applied projects.
 
-RESEARCH INTERESTS 	
+RESEARCH INTERESTS
 Collaborative Deep Learning, Edge Computing, Federated Learning. 
 
 
