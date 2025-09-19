@@ -45,4 +45,6 @@ TEACHING EXPERIENCE
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Phone: +(61) 0431 458 575 | Email: [zdong@swin.edu.au](mailto:zdong@swin.edu.au)
+LinkedIn: [www.linkedin.com/in/zeqian-dong-9bb62326a](www.linkedin.com/in/zeqian-dong-9bb62326a)
+Google Scholar Profile: [https://scholar.google.com/citations?user=4wVI7McAAAAJ&hl=en](https://scholar.google.com/citations?user=4wVI7McAAAAJ&hl=en)
